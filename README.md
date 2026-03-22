@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+初期アイコンで頑張る鳥
 
 ## 技術スタック
 
