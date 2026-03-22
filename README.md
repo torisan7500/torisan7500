@@ -19,32 +19,28 @@ Here are some ideas to get you started:
 
 ## 技術スタック
 
-【バックエンド】
-- Python
-- Go ←new
-- C#
-- Linux
-- AWS
-
-
-【フロントエンド】
-- React/TypeScript
+- 【バックエンド】
+    - Python
+    - Go ←new
+    - C#
+    - Linux
+    - AWS
+- 【フロントエンド】
+    - React/TypeScript
 
 
 ## 資格
 
-
-【インフラ】
-- LinuCレベル3 プラットフォームスペシャリスト
-- AWS ソリューションアーキテクト アソシエイト 〈SAA〉
-- AWS ディベロッパー アソシエイト 〈DVA〉
-- AWS 機械学習エンジニア アソシエイト 〈MLA〉
-- CCNA
-
-【全般/他】
-- 統計検定2級、G検定
-- 応用情報技術者
-- 愛玩動物飼養管理士2級🐕️
+- 【インフラ】
+    - LinuCレベル3 プラットフォームスペシャリスト
+    - AWS ソリューションアーキテクト アソシエイト 〈SAA〉
+    - AWS ディベロッパー アソシエイト 〈DVA〉
+    - AWS 機械学習エンジニア アソシエイト 〈MLA〉
+    - CCNA
+- 【全般/他】
+    - 統計検定2級、G検定
+    - 応用情報技術者
+    - 愛玩動物飼養管理士2級🐕️
 
 
 
@@ -56,4 +52,4 @@ Here are some ideas to get you started:
 
 
 ## SNS
-- Zenn
+- [Zenn](https://zenn.dev/torisan7500)
