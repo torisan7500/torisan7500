@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **torisan7500/torisan7500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,46 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+## 技術スタック
+
+【バックエンド】
+- Python
+- Go ←new
+- C#
+- Linux
+- AWS
+
+
+【フロントエンド】
+- React/TypeScript
+
+
+## 資格
+
+
+【インフラ】
+- LinuCレベル3 プラットフォームスペシャリスト
+- AWS ソリューションアーキテクト アソシエイト 〈SAA〉
+- AWS ディベロッパー アソシエイト 〈DVA〉
+- AWS 機械学習エンジニア アソシエイト 〈MLA〉
+- CCNA
+
+【全般/他】
+- 統計検定2級、G検定
+- 応用情報技術者
+- 愛玩動物飼養管理士2級🐕️
+
+
+
+## 経歴
+- ネットワーク 2年
+- 開発（Web） 7年
+- 副業個人事業主
+    - IoTのおもちゃ、機械学習のおもちゃ等
+
+
+## SNS
+- Zenn
