@@ -20,9 +20,7 @@ Here are some ideas to get you started:
 ## 技術スタック
 
 - 【バックエンド】
-    - Python
-    - Go ←new
-    - C#
+    - Python / Go  / C#
     - Linux
     - AWS
 - 【フロントエンド】
@@ -33,14 +31,14 @@ Here are some ideas to get you started:
 
 - 【インフラ】
     - LinuCレベル3 プラットフォームスペシャリスト
-    - AWS ソリューションアーキテクト アソシエイト 〈SAA〉
-    - AWS ディベロッパー アソシエイト 〈DVA〉
-    - AWS 機械学習エンジニア アソシエイト 〈MLA〉
+    - AWS MLA （機械学習エンジニアアソシエイト）
+    - AWS SAA （ソリューションアーキテクトアソシエイト）
+    - AWS DVA （ディベロッパーアソシエイト）
     - CCNA
 - 【全般/他】
     - 統計検定2級、G検定
     - 応用情報技術者
-    - 愛玩動物飼養管理士2級🐕️
+    - 愛玩動物飼養管理士2級🐕️🐈️
 
 
 
