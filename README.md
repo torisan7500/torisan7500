@@ -48,6 +48,3 @@ Here are some ideas to get you started:
 - 副業個人事業主
     - IoTのおもちゃ、機械学習のおもちゃ等
 
-
-## SNS
-- [Zenn](https://zenn.dev/torisan7500)
