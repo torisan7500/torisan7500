@@ -24,16 +24,14 @@ Here are some ideas to get you started:
     - Linux
     - AWS
 - 【フロントエンド】
-    - React/TypeScript
+    - React / TypeScript
 
 
 ## 資格
 
 - 【インフラ】
     - LinuCレベル3 プラットフォームスペシャリスト
-    - AWS MLA （機械学習エンジニアアソシエイト）
-    - AWS SAA （ソリューションアーキテクトアソシエイト）
-    - AWS DVA （ディベロッパーアソシエイト）
+    - AWS MLA（機械学習エンジニアアソシエイト） / SAA / DVA
     - CCNA
 - 【全般/他】
     - 統計検定2級、G検定
@@ -44,7 +42,7 @@ Here are some ideas to get you started:
 
 ## 経歴
 - ネットワーク 2年
-- 開発（Web） 7年
+- 開発（Web） 6年
 - 副業個人事業主
     - IoTのおもちゃ、機械学習のおもちゃ等
 
